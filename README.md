@@ -68,7 +68,7 @@ MVC (https://developer.mozilla.org/en-US/docs/Glossary/MVC) 
 |     Dani T.     |  elisetomlin | CDT   | Front-End |
 |     Eddie       |  vazquezea96 | PST   | Back-End  |
 | pixel class 27  |  mckennaz    | EST   |    TBD    |
-|   Kingsford       | kwamecody | unknown | Back-End |
+|   Kingsford       | kwamecody | GMT | Back-End |
 | RealistChemist123 |   rwdd1   | unknown | Back-End |
 
 Use this [tool](https://www.worldtimebuddy.com/?pl=1&lid=2964574,7114227,5,6,8&h=2964574&hf=1) to see everyone's time zone.
