@@ -7,7 +7,7 @@ const MongoStore = require('connect-mongo')(session)
 const connectDB = require('./config/database')
 const authRoutes = require('./routes/auth')
 const homeRoutes = require('./routes/home')
-const PORT = 3000
+const PORT = 2121
 
 
 require('dotenv').config({path: './config/.env'})
